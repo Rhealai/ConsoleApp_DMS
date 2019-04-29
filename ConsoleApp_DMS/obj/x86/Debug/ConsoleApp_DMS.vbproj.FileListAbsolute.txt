@@ -1,0 +1,13 @@
+C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\ConsoleApp_DMS\bin\Debug\ConsoleApp_DMS.exe
+C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\ConsoleApp_DMS\bin\Debug\ConsoleApp_DMS.pdb
+C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\ConsoleApp_DMS\bin\Debug\ConsoleApp_DMS.xml
+C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\ConsoleApp_DMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\ConsoleApp_DMS\obj\x86\Debug\ConsoleApp_DMS.Resources.resources
+C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\ConsoleApp_DMS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\ConsoleApp_DMS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\ConsoleApp_DMS\obj\x86\Debug\ConsoleApp_DMS.exe
+C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\ConsoleApp_DMS\obj\x86\Debug\ConsoleApp_DMS.xml
+C:\Documents and Settings\RioSim\Local Settings\Application Data\Temporary Projects\ConsoleApp_DMS\obj\x86\Debug\ConsoleApp_DMS.pdb
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\ConsoleApp_DMS\ConsoleApp_DMS\obj\x86\Debug\ConsoleApp_DMS.exe
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\ConsoleApp_DMS\ConsoleApp_DMS\obj\x86\Debug\ConsoleApp_DMS.xml
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\ConsoleApp_DMS\ConsoleApp_DMS\obj\x86\Debug\ConsoleApp_DMS.pdb
